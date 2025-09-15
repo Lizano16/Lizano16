@@ -7,7 +7,7 @@ Me apasiona crear soluciones innovadoras, desde aplicaciones web modernas con ba
 ---
 
 ## 🚀 Sobre mí  
-- 💻 Dominio de **Python, JavaScript, HTML, CSS, C# y C++**  
+- 💻 Dominio de **Python, JavaScript, HTML, CSS, C#**  
 - 🎨 Experiencia con **Bootstrap** para interfaces modernas y responsivas  
 - 🛢️ Manejo de **SQL / MySQL Server** para bases de datos robustas  
 - 🔒 Conocimientos en **hacking ético y ciberseguridad**  
